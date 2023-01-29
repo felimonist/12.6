@@ -27,4 +27,4 @@ Master-Master репликации – это настройка обычной 
 
 
 
-![Название скриншота 2](ссылка на скриншот 2)`
+![slave]https://github.com/felimonist/12.6/blob/main/img/slave%20configur.JPG
