@@ -24,4 +24,5 @@ Master-Master репликации – это настройка обычной 
 
 Прилагаю статус репликации на slave ,если не то прошу указать ,что именно нужно.
 Конфигурирование репликации произведена с помощью docker.
+
 ![slave](https://github.com/felimonist/12.6/blob/main/img/slave%20configur.JPG)
