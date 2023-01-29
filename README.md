@@ -24,7 +24,4 @@ Master-Master репликации – это настройка обычной 
 
 Прилагаю статус репликации на slave ,если не то прошу указать ,что именно нужно.
 
-
-
-
-![slave]https://github.com/felimonist/12.6/blob/main/img/slave%20configur.JPG
+![slave](https://github.com/felimonist/12.6/blob/main/img/slave%20configur.JPG)
